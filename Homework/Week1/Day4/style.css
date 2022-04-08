@@ -1,0 +1,46 @@
+h1 {
+  color: green;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  margin-bottom: 20px;
+  font-size: 60px;
+}
+.navContainer {
+  border-width: 2px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.menu {
+  border: solid green;
+  border-radius: 2em;
+  border-width: 1px;
+  padding: 10px;
+  font-size: larger;
+}
+.menu:hover {
+  border: solid green;
+  border-radius: 2em;
+  border-width: 1px;
+  padding: 10px;
+  background-color: green;
+  border: solid white;
+  color: white;
+}
+.paragraph {
+  text-align: center;
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  font-size: xx-large;
+}
+
+#barsoap {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  border-radius: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
