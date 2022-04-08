@@ -9,7 +9,7 @@ h1 {
   border-width: 2px;
   padding: 10px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   margin-top: 10px;
 }
 .menu {
